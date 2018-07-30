@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SerialTextView">
+        <attr name="serialText" format="string" />
+        <attr name="serialColor" format="color" />
+        <attr name="serialTextColor" format="color" />
+        <attr name="serialTextBgColor" format="color" />
+    </declare-styleable>
+</resources>
